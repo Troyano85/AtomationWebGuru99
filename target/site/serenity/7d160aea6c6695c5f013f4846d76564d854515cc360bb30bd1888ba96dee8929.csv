@@ -1,4 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Enter the application","user enter the application with their correct credentials","SUCCESS","2023-10-08T21:30:00.1836876-05:00[America/Bogota]","0.0","20.64"
-"register on the page","user registers on the page by entering their data","SUCCESS","2023-10-10T18:39:01.9295524-05:00[America/Bogota]","0.0","23.92"
-"Perform a flight search","user performs a travel search to stop his trip","ERROR","2023-10-15T10:01:31.8074699-05:00[America/Bogota]","0.0","16.84"
