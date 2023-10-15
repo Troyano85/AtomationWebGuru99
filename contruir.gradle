@@ -36,12 +36,8 @@ dependencies {
     implementation group: 'net.serenity-bdd', name: 'serenity-cucumber', version: "${serenityCucumberVersion}"
     implementation group: 'net.serenity-bdd', name: 'serenity-screenplay', version: "${serenityVersion}"
     implementation group: 'net.serenity-bdd', name: 'serenity-screenplay-webdriver', version: "${serenityVersion}"
-    implementation group: 'net.serenity-bdd', name: 'serenity-ensure', version: "${serenityEnsureVersion}"
-    implementation group: 'org.slf4j', name: 'slf4j-simple', version: "${slf4jSimpleVersion}"
-    testImplementation group: 'junit', name: 'junit', version: "${junitVersion}"
-
-    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.13.0'
-
+   
+    
 }
 
 serenity {
